@@ -2,10 +2,10 @@
 这是一个vscode插件，用于管理fvm的版本。
 
 ## 说明
-在开发或阅读Flutter项目中,我们经常需要切换不同的Flutter版本，而fvm就是用于管理Flutter版本的工具。fvm manager是一个vscode插件，用于管理fvm的版本，可以方便地在不同的Flutter版本之间切换。同时也能在Flutter项目中快捷的切换Flutter版本。
+在开发或阅读Flutter项目中,我们经常需要切换不同的Flutter版本，而fvm就是用于管理Flutter版本的工具。fvm manager是一个vscode插件，使用fvm管理不同flutter工程的版本，可以使工程沉浸式的在不同的Flutter版本之间切换。
 
 ## 安装
-在vscode中搜索fvm manager，然后点击安装即可。
+在vscode中搜索fvm manager，然后点击安装即可。[Marketplace](https://marketplace.visualstudio.com/items?itemName=borneygit.fvm-manager)
 ![alt text](images/install.png)
 
 ## 使用
